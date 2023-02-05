@@ -211,7 +211,7 @@ class _LoginScreenState extends State<LoginScreen> {
           child: TextButton(
             style: TextButton.styleFrom(
               shape: const StadiumBorder(),
-              backgroundColor: Colors.blue,
+              backgroundColor: Colors.blueAccent,
               padding: const EdgeInsets.symmetric(vertical: 14),
             ),
             onPressed: () {
